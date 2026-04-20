@@ -6,3 +6,4 @@ Respuesta C
 
 Pregunta 3 
 Respuesta B
+Este cambio lo hice desde  vs code 
